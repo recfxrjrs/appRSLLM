@@ -1,0 +1,7 @@
+crewai==0.79.4
+crewai_tools==0.14.0
+langchain_community==0.3.4
+scikit-surprise==1.1.4
+scikit-learn==1.5.2
+streamlit
+python-dotenv
